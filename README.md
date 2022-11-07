@@ -8,3 +8,7 @@ As well as the beginning of the [Game Mechanics](./_docs/1.%20Mechanix.md) that'
 
 ### Updates
 Will appear as they come in
+
+---
+## Resources
+A large amount of resources have been placed into an [ideation](./_docs/.ideation) directory. The information may have merit or just be clutter. It will be researched and parsed as development continues.
