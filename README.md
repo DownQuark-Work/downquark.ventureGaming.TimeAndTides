@@ -1,3 +1,10 @@
-# DownQuark Open Source Template
+# Time & Tides
+> A Rogueli(k|t)e in the early stages of active development.
 
-:rotating_light: **WARNING** :rotating_light: This README should only show on the repository at https://github.com/DownQuark-Work/downquark.templateCore.OpenSource. If it is showing on some other repo, please open an issue to have it fixed.
+## Concept
+Available is an initial high level, _very_ Stream of Consciousness, rough draft of the plot via a [Backstory](./_docs/0.%20Backstory.md)
+
+As well as the beginning of the [Game Mechanics](./_docs/1.%20Mechanix.md) that's (just barely) better than nothing.
+
+### Updates
+Will appear as they come in
