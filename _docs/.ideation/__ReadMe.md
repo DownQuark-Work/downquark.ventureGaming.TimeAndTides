@@ -5,6 +5,7 @@ This _\_ideation_ directory is more of a resource dump/mood board than anything 
 ## Web resources
 - https://libregamewiki.org/Main_Page
 - https://opensource.com/tags/gaming
+- https://imgur.com/r/makeyourchoice/V5t2Bnmimage.png
 
 - https://boardgame.io/#/
 - https://www.deviantart.com/sadfacerl/gallery/all
@@ -21,6 +22,9 @@ https://opengameart.org/content/time-tides-moodboard
 > MORE (curated) IMAGE ASSETS from the above site can be found here:
 > (too large to include in the repo)
 > > /Volumes/Data/gaming/HumbleBundle/gaming/_assets/craftpix
+
+- https://www.reddit.com/r/makeyourchoice/comments/93fz34/pirate_life_from_tg/
+> for `piratelife<0-7>.jpg` (5 images total)
 
 ## pixel manipulation software
 > https://80.lv/articles/80-level-digest-introduction-to-tools-for-pixel-artists/?
