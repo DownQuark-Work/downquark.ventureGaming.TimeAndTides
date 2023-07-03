@@ -3,9 +3,13 @@
 This _\_ideation_ directory is more of a resource dump/mood board than anything organized/conceptualized
 
 ## Web resources
+- https://donjon.bin.sh/fantasy/treasure_map/ <--!
 - https://libregamewiki.org/Main_Page
 - https://opensource.com/tags/gaming
 - https://imgur.com/r/makeyourchoice/V5t2Bnmimage.png
+
+## Mechanics resources
+- https://docs.google.com/document/u/2/d/1jsp1SHp-QzSW0la9P2CBtJbi9V898Ppcm-5U5LT_nAI/mobilebasic
 
 - https://boardgame.io/#/
 - https://www.deviantart.com/sadfacerl/gallery/all
@@ -36,6 +40,8 @@ https://pyxeledit.com/index.php
 https://store.steampowered.com/app/431730/Aseprite/
 https://store.steampowered.com/app/671190/Pro_Motion_NG/
 
+> Great font for this:
+> > [IM Fell DW Pica](https://fonts.google.com/specimen/IM+Fell+DW+Pica)
 
 ## Misc assets
 ### Below items were discovered on external drive. May not be relevant
@@ -44,6 +50,7 @@ https://store.steampowered.com/app/671190/Pro_Motion_NG/
 - Azgaar's Fantasy Map Gen: https://azgaar.github.io/Fantasy-Map-Generator/
 - Inkarnate: https://inkarnate.com/
 - Medieval City: https://watabou.itch.io/
+  - https://watabou.github.io/
 
 - Dungeon Painter: http://pyromancers.com/dungeon-painter-online/
 - Illwinter's floor plan: http://www.illwinter.com/floorplan/
